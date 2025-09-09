@@ -12,9 +12,16 @@ int main(){
     scanf("%d", &idade);
 
     printf("digite sua altura: \n");
-    scanf("%f", %float);
+    scanf("%f", %altura);
+
+    printf("digite seu nome: \n");
+    scanf("%s", %nome);
+
+    printf("digite sua matricula: \n");
+    scanf"%d", &matricula);
 
     
+
 
 
 
